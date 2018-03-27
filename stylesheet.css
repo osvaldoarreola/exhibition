@@ -1,0 +1,22 @@
+p {
+	color: #003BE8;
+	font-family: "Lucida Console";
+}
+h1 {
+	text-align: center;
+	font-size: 40px;
+}
+body {
+	text-align: center;
+	background-color: #FFEBA3;
+	font-size: 25px;
+	cursor: crosshair;
+}
+ul	{
+	margin-left:  800px;
+	margin-right: 800px;
+}
+h2	{
+	text-align: center;
+		font-size: 34px;
+}
